@@ -5,6 +5,7 @@ padding: 30px 35px;
 margin: -10px -50px;
 text-align:center;
 border-radius: 10px 10px 0 0;
+
 }
 hr{
 margin: 10px -50px;
@@ -13,10 +14,11 @@ border-top: 1px solid #ccc;
 margin-bottom: 40px;
 }
 div.container{
-width: 900px;
+width: 400px;
 height: 610px;
-margin:35px auto;
+margin:100px auto;
 font-family: 'Raleway', sans-serif;
+align-content: center;
 }
 div.main{
 width: 300px;
@@ -26,6 +28,7 @@ border-radius: 10px;
 font-family: raleway;
 float:left;
 margin-top:50px;
+vertical-align: auto;
 }
 input[type=text],input[type=password]{
 width: 100%;
